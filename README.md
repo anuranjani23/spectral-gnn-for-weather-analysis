@@ -1,1 +1,1 @@
-# spectral-gnn-for-weather-analysis-using-spherical-harmonics
+Spectral Graph Neural Networks for Global Weather Pattern Analysis and Prediction Using Spherical Harmonics.
